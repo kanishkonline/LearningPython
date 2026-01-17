@@ -5,6 +5,7 @@
 This repository contains Python assignments completed as part of the Tutedude Python course.
 
 ### Folders Structure
+#### PBTD/ASSIGNMENTS/
 - Assignment 1/
   - Task1.py – Basic mathematical operations
   - Task2.py – Personalized greeting
