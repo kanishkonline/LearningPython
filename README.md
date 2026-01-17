@@ -14,7 +14,7 @@ This repository contains Python assignments completed as part of the Tutedude Py
   - Contains programs for Assignment 2
 
 ### How to Run
-Navigate to the assignment folder and
+Open a terminal, navigate to the assignment folder, and run:
 
 
 ## Author
