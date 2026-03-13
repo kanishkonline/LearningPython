@@ -26,6 +26,9 @@ This repository contains Python assignments completed as part of the Tutedude Py
   - Task1.py – Create a Dictionary of Student Marks
   - Task2.py – Demonstrate List Slicing
 
+- Assignment 6/
+  - CALCULATOR USING TKINTER
+
 ### How to Run
 Open a terminal, navigate to the assignment folder, and run:
 
