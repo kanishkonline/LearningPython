@@ -19,7 +19,7 @@ The objective of this assignment is to demonstrate how to use Selenium with Pyth
 Assignment 12/
 │
 ├── Automation_using_selenium.py              # Selenium script for data extraction
-├── README.md                                 # Documentation
+├── README.md                                               # Documentation
 
 ---
 
