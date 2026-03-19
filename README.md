@@ -29,6 +29,12 @@ This repository contains Python assignments completed as part of the Tutedude Py
 - Assignment 6/
   - CALCULATOR USING TKINTER
 
+- Assignment 7/
+  - Building Database Apps with PostgreSQL 
+
+- Assignment 12/
+  - Automation using selenium: Getting data
+
 ### How to Run
 Open a terminal, navigate to the assignment folder, and run:
 
