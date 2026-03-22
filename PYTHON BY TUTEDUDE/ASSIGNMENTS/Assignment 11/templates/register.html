@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Register</title>
+</head>
+<body>
+
+<h2>Registration Form</h2>
+
+<form method="POST">
+    {{ form.hidden_tag() }}
+
+    Name: {{ form.name() }}<br><br>
+    Email: {{ form.email() }}<br><br>
+    Password: {{ form.password() }}<br><br>
+    Confirm Password: {{ form.confirm_password() }}<br><br>
+
+    {{ form.submit() }}
+</form>
+
+{% for field, errors in form.errors.items() %}
+    {% for error in errors %}
+        <p style="color:red;">{{ error }}</p>
+    {% endfor %}
+{% endfor %}
+
+</body>
+</html>
