@@ -35,6 +35,34 @@ This repository contains Python assignments completed as part of the Tutedude Py
 - Assignment 12/
   - Automation using selenium: Getting data
 
+- Assignment 13/
+  - Building A Chat Application
+
+
+#### PBTD/ASSIGNMENTS/ASSIGNMENT PAS ZIPS
+- Assignment 5 PAS/
+  - Task1.py – Create a Dictionary of Student Marks
+  - Task2.py – Demonstrate List Slicing
+
+- Assignment 6 PAS/
+  - CALCULATOR USING TKINTER
+
+- Assignment 7 PAS/
+  - Building Database Apps with PostgreSQL 
+
+- Assignment 12 PAS/
+  - Automation using selenium: Getting data
+
+- Assignment 13 PAS/
+  - Building A Chat Application
+
+
+#### PBTD/ASSIGNMENTS/ASSIGNMENT PAS PDFS
+- Assignment 7 PAS/
+  - Building Database Apps with PostgreSQL
+
+
+
 ### How to Run
 Open a terminal, navigate to the assignment folder, and run:
 
