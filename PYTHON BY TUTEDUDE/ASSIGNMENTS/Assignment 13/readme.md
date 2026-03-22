@@ -30,8 +30,8 @@ The goal of this assignment is to:
 
 ## Assignment 13/
 │
-├── chat_app_server.py # Server-side code
-├── chat_app_client.py # Client-side code
+├── server.py # Server-side code
+├── client.py # Client-side code
 └── README.md # Project documentation
 
 ## ⚙️ How It Works
